@@ -24,4 +24,4 @@ async function startChat() {
     }
 }
 
-processPDF();
+startChat();
